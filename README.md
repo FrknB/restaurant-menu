@@ -1,5 +1,5 @@
 # restaurant-menu
-## Live --> https://blabla-restaurant-menu.netlify.app/
+### Live -> https://blabla-restaurant-menu.netlify.app/
 
 ## Project setup
 ```
